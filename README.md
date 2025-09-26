@@ -27,11 +27,6 @@ Currently transitioning into the tech field, focusing on **Backend**, **Frontend
 
 ---
 
-### **Visitor Counter**
-![Visitor Badge](https://komarev.com/ghpvc/?username=cinmoliveira&style=flat-square&color=blue)
-
----
-
 📫 **Connect with me!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintiamoliveira92/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cinmoliveira)
