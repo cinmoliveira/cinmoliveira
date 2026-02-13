@@ -25,12 +25,6 @@ Currently transitioning into the tech field, focusing on **Backend**, and **Data
 
 ---
 
-### **GitHub Stats**
-![Cintia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cinmoliveira&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinmoliveira&layout=compact&theme=tokyonight)
-
----
-
 📫 **Connect with me!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintiamoliveira92/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cinmoliveira)
